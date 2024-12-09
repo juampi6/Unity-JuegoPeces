@@ -1,0 +1,47 @@
+# Archivos y carpetas generados automáticamente por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de sistema innecesarios
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Carpetas y archivos de configuración de IDEs
+.vscode/
+.idea/
+*.tmproj
+
+# Otros archivos innecesarios
+.DS_Store
+*.swp
+*.lock
+*.tmp
+*.bak
+
+# Archivos de configuración de Mac o Linux
+.DS_Store
+*.dmg
+*.plist
+*.so
+
+# Archivos de configuración de Windows
+Thumbs.db
+*.exe
+*.dll
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración personal de Unity
+UserSettings/
